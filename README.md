@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tLLWtG.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning CS.
-- 💞️ I’m looking to collaborate on solving LeetCode problems.
+- 🌱 I’m currently learning CS in XMU.
+- 💞️ I’m looking to collaborate on solving CP problems.
 - 📫 How to reach me : Just send an email to me.
 
 <!---
