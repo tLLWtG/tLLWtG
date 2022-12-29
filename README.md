@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm tLLWtG</h1>
 
 
-### A college student studying CS in XMU. I like open source and all interesting things and want to try to do it.
+<h4 align="center">A college student studying CS in XMU. </h4>
+<h4 align="center">I like open source and all interesting things and want to try to do it.</h4>
 
 ## Aboud Me
 
