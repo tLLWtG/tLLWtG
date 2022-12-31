@@ -6,7 +6,7 @@
 
 ## Aboud Me
 
-- 🌱 I’m currently learning **C, C++, Python, JS, HTML, CSS, Qt**
+- 🌱 I’m currently learning **C, C++, Python, JS, HTML, CSS, ~~Qt~~ Electron**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/tLLWtG)**
 
