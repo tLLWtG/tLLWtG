@@ -19,7 +19,7 @@
 ## Skills
 > ~~or currently learning~~
 
-![Skills](https://skillicons.dev/icons?i=github,c,cpp,html,js,css,py,md,git,linux,vim,vscode,electron)
+![Skills](https://skillicons.dev/icons?i=github,c,cpp,html,js,css,py,md,git,linux,vim,vscode,electron,docker)
 
 ## Stats &nbsp;&nbsp;&nbsp; ![tLLWtG](https://komarev.com/ghpvc/?username=tllwtg&label=Profile%20views&color=0e75b6&style=flat "tLLWtG")
 
