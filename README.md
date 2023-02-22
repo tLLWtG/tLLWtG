@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on solving CP problems, and this is my CF account **[tllwtg](https://codeforces.com/profile/tllwtg)**
 
-- 📝 I regularly write articles on **[tLLWtG Blog](https://tllwtg.github.io)**
+- 📝 I regularly write articles on **[tLLWtG Blog](https://tllwtg.top)**
 
 - 📫 Reach me at **tllwtg@gmail.com**
 
