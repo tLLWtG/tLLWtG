@@ -6,7 +6,7 @@
 
 ## Aboud Me
 
-- 🌱 I’m currently learning **C, C++, Python, JS, HTML, CSS, Java, Vue**
+- 🌱 I’m currently learning **Computer Science and Technology**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/tLLWtG)**
 
@@ -19,7 +19,7 @@
 ## Skills
 > ~~or currently learning~~
 
-![Skills](https://skillicons.dev/icons?i=github,c,cpp,java,python,html,js,css,md,latex,git,linux,vim,vscode,electron,docker,vue)
+![Skills](https://skillicons.dev/icons?i=github,c,cpp,java,python,html,js,css,electron,vue,md,latex,git,linux,vim,vscode,docker)
 
 ## Stats &nbsp;&nbsp;&nbsp; ![tLLWtG](https://komarev.com/ghpvc/?username=tllwtg&label=Profile%20views&color=0e75b6&style=flat "tLLWtG")
 
