@@ -6,20 +6,16 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Computer Science and Technology**
+- 🌱 I’m currently learning **Computer Science and Technology**.
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/tLLWtG)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/tLLWtG)**.
 
-- 👯 I’m looking to collaborate on solving CP problems, and this is my CF account **[tllwtg](https://codeforces.com/profile/tllwtg)**
+- 👯 I’m looking to collaborate on solving CP problems, and this is my CF account **[tllwtg](https://codeforces.com/profile/tllwtg)**.
 
-- 📝 I regularly write articles on **[tLLWtG Blog](https://tllwtg.top)**
+- 📝 I regularly write articles on **[tLLWtG Blog](https://tllwtg.top)**.
 
-- 📫 Reach me at **tllwtg@gmail.com**
+- 📫 Reach me at **tllwtg@gmail.com**.
 
-## Skills
-> ~~or currently learning~~
-
-![Skills](https://skillicons.dev/icons?i=github,c,cpp,java,python,html,js,css,electron,vue,md,latex,git,linux,vim,vscode,docker)
 
 ## Stats &nbsp;&nbsp;&nbsp; ![tLLWtG](https://komarev.com/ghpvc/?username=tllwtg&label=Profile%20views&color=0e75b6&style=flat "tLLWtG")
 
